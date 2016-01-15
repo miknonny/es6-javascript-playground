@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":";;;;;;;;;;AAGA,IAAI,KAAK,GAAG,WAHH,WAAW,qBAGY,CAAC","file":"index.js","sourcesContent":["import { createStore } from 'redux'\nimport todoApp from './reducers'\n\nlet store = createStore(todoApp);\n"]}
